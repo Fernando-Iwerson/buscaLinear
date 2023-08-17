@@ -10,7 +10,7 @@ function buscaLinear(array, elemntoBuscado) {
     return -1;
 }
 
-
+// O array começa na casa 0
 const array = [15, 8, 10, 25, 12, 30, 5, 20, 18, 7];
 const elementoProcurado = 20;
 
